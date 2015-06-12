@@ -2,7 +2,7 @@
 
 
 ##Installation 
-1) To initialize your application, first move inside the "advanced" folder. In your terminal execute this command:
+1) Clone application then To initialize your application, first move inside the "advanced" folder. In your terminal execute this command:
 > composer install
 
 2) Run following command to initialize application 
