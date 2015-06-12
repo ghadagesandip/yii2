@@ -14,7 +14,7 @@
 4) Now you can execute the yii migration that will populate your database with necessary tables. 
 Inside advanced folder execute this command:
 
-> ./yii migrate
+> php yii migrate
 
 5) Confirm migration by typing "yes" and press enter.
 
